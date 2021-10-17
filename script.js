@@ -19,7 +19,7 @@ function domLoaded() {
     highBP = document.getElementById("familyBlood")
     depression = document.getElementById("depression");
 
-    //buttons
+    //button elements
     next1 = document.getElementById("next1");
     next2 = document.getElementById("next2");
 

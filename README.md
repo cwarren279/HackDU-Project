@@ -1,3 +1,3 @@
 # HackDU-Project
 Project for HackDU
-created by Jacob Hutchinson, Chris Warren, and Jace Reinke
+created by Jacob Hutchinson, Christopher Warren, and Jace Reinke
